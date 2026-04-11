@@ -1,30 +1,41 @@
-I am a Bachelor of Computer Applications (BCA) student currently in my 6th semester, passionate about software development and web technologies.
+Here is your GitHub profile README in the same style, clean and ready to use:
 
-### Focus Areas
-- Web Development  
-- Programming Fundamentals  
-- Problem Solving  
+---
 
-### Currently Learning
-- JavaScript  
-- Node.js & Express  
-- Tailwind CSS  
-- Backend Development  
+Hi, I'm Dipen Maharjan
+🎯 Web Developer | BCA Student | Tech Enthusiast
 
-Open to learning, collaboration, and new opportunities.
+Welcome to my GitHub profile!
+I am a BCA 6th semester student passionate about software development and web technologies.
+I enjoy building practical projects and learning by doing.
 
+💻 Tech Stack
 
-<!--
-**Reaper-11/Reaper-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend:
+HTML5, CSS3, JavaScript
+Responsive Design, Tailwind CSS
 
-Here are some ideas to get you started:
+Backend:
+PHP, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Platforms:
+VS Code, Git & GitHub, XAMPP, Canva
+
+🚀 What I’m Currently Doing
+🌱 Improving JavaScript and backend development
+💡 Working on real-world projects like Job Portal
+🧩 Learning how to build clean and scalable systems
+
+🧠 Coding Approach
+I focus on simple, clean, and functional code.
+I build projects that solve real problems and are easy to understand.
+
+📫 Connect With Me
+📧 Email: [ddipenmhz123@gmail.com](mailto:ddipenmhz123@gmail.com)
+💬 Facebook: [https://www.facebook.com/Dipen.maharjan09](https://www.facebook.com/Dipen.maharjan09)
+
+⭐ Thanks for visiting my profile. Open to collaboration and learning opportunities.
+
+---
+
+If you want, I can make it more professional for job/internship or more attractive for GitHub profile styling.
