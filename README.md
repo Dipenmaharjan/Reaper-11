@@ -1,7 +1,3 @@
-Here is your GitHub profile README in the same style, clean and ready to use:
-
----
-
 Hi, I'm Dipen Maharjan
 🎯 Web Developer | BCA Student | Tech Enthusiast
 
@@ -35,7 +31,3 @@ I build projects that solve real problems and are easy to understand.
 💬 Facebook: [https://www.facebook.com/Dipen.maharjan09](https://www.facebook.com/Dipen.maharjan09)
 
 ⭐ Thanks for visiting my profile. Open to collaboration and learning opportunities.
-
----
-
-If you want, I can make it more professional for job/internship or more attractive for GitHub profile styling.
