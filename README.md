@@ -16,18 +16,3 @@ PHP, MySQL
 
 Tools & Platforms:
 VS Code, Git & GitHub, XAMPP, Canva
-
-🚀 What I’m Currently Doing
-🌱 Improving JavaScript and backend development
-💡 Working on real-world projects like Job Portal
-🧩 Learning how to build clean and scalable systems
-
-🧠 Coding Approach
-I focus on simple, clean, and functional code.
-I build projects that solve real problems and are easy to understand.
-
-📫 Connect With Me
-📧 Email: [ddipenmhz123@gmail.com](mailto:ddipenmhz123@gmail.com)
-💬 Facebook: [https://www.facebook.com/Dipen.maharjan09](https://www.facebook.com/Dipen.maharjan09)
-
-⭐ Thanks for visiting my profile. Open to collaboration and learning opportunities.
