@@ -1,110 +1,200 @@
-👋 Hi there!
+# 👋 Hi there!
 
-I’m a Bachelor of Computer Applications (BCA) student with a strong interest in software development, web technologies, and quality assurance.
+I am a **Bachelor of Computer Applications (BCA)** student with a strong interest in **software development, web technologies, and software quality assurance**.
 
-I enjoy building practical projects, learning new technologies, and improving my programming and problem-solving skills through hands-on practice.
+I enjoy building practical projects, learning new technologies, solving programming problems, and improving my technical skills through hands-on practice.
 
-🚀 What I Do
+---
 
-🌐 Web Development
+## 🎯 Focus Areas
 
-🧪 Software Testing & Quality Assurance
+- 🌐 Web Development
+- 💻 Software Development
+- 🧪 Software Testing & Quality Assurance
+- 🧩 Problem Solving
+- 📚 Programming Fundamentals
+- 🔧 Building Practical Projects
 
-💻 Programming & Problem Solving
+---
 
-🔧 Building Practical Projects
+## 🛠️ Technologies & Tools
 
-📚 Continuous Learning
+### 💻 Programming Languages
 
-🛠️ Technologies & Tools
+- Python
+- PHP
+- JavaScript
+- HTML
+- CSS
 
+### 🌐 Web Development
 
-Languages
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Express.js
+- Tailwind CSS
+- WordPress
 
-PHP
+### 🗄️ Database
 
-JavaScript
+- MySQL
 
-Python
+### 🧪 Software Testing
 
-HTML
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- Functional Testing
+- Regression Testing
+- UI Testing
+- Selenium with Python
+- Postman
 
-CSS
+### 🔧 Tools
 
+- Git
+- GitHub
+- VS Code
+- PyCharm
+- XAMPP
+- Chrome DevTools
+- Canva
+- Adobe Photoshop
 
-Web & Backend
+---
 
-Node.js
+## 📚 Currently Learning
 
-Express.js
+- JavaScript
+- Node.js with Express
+- Backend Development
+- Tailwind CSS
+- Selenium Automation Testing
+- Software Testing & QA Practices
+- Git & GitHub
+- Database Management
 
-MySQL
+---
 
-WordPress
+## 🚀 Projects
 
+### 🍳 Recipe Recommendation System
 
-Testing
+A web-based recipe recommendation system designed to help users find suitable recipes based on their preferences.
 
-Manual Testing
+**Technologies:**
+- Node.js
+- HTML
+- CSS
+- JavaScript
 
-Test Case Design
+---
 
-Bug Reporting
+### 💼 Job Portal System
 
-Selenium with Python
+A web-based job portal that provides different functionalities for users, employers, and administrators.
 
-Postman
+**Key Features:**
+- User Management
+- Job Posting
+- Job Application
+- Application Tracking
+- Job Recommendation
+- Admin Management
 
+**Technologies:**
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
 
-Tools
+---
 
-Git & GitHub
+### 🛒 E-Commerce Projects
 
-VS Code
+Developed web-based e-commerce projects with features such as:
 
-Chrome DevTools
+- Product Management
+- User Registration & Login
+- Shopping Cart
+- Checkout
+- Order Management
+- Payment Integration
+- Admin Management
 
-XAMPP
+**Technologies:**
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- XAMPP
 
-Canva
+---
 
+## 🧪 QA & Testing
 
-📚 Currently Learning
+I am also interested in **Software Quality Assurance** and enjoy finding problems before users have the privilege of discovering them first.
 
-JavaScript & Modern Web Development
-Node.js & Express
+My testing experience includes:
 
-Backend Development
+- Writing Test Cases
+- Functional Testing
+- UI Testing
+- Regression Testing
+- Positive & Negative Testing
+- Bug Identification
+- Bug Reporting
+- Test Documentation
+- Browser Testing
+- Basic Automation Testing
 
-Selenium Automation Testing
+---
 
-Software Testing & QA Practices
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bimal987&show_icons=true&theme=dark)
 
-🎯 My Goals
+---
 
-Build real-world software projects
+## 🔥 Most Used Languages
 
-Improve my development and testing skills
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bimal987&layout=compact&theme=dark)
 
-Learn automation testing
+---
 
-Contribute to open-source projects
+## 🌱 Goals
 
-Grow as a software developer and QA professional
+- Build more real-world projects
+- Improve my programming skills
+- Become better at software testing
+- Learn automation testing
+- Improve backend development skills
+- Contribute to open-source projects
+- Gain professional experience
+- Continuously learn and improve
 
+---
 
-📂 Featured Projects
+## 🤝 Open To
 
-🔹 Job Portal System
-A platform with user, employer, and admin functionality for managing job applications.
+- 💻 Software Development Opportunities
+- 🧪 QA & Software Testing Opportunities
+- 🚀 Project Collaboration
+- 🌱 Open-Source Contributions
+- 📚 Learning Opportunities
 
-🔹 E-Commerce Projects
-Web-based shopping systems built using PHP, MySQL, HTML, CSS, and JavaScript.
+---
 
+## 📫 Let's Connect
 
-📫 Let's Connect
-I’m always interested in learning, collaborating, building projects, and exploring new opportunities.
+I am always interested in **learning, collaborating, building projects, and exploring new opportunities**.
 
+Thanks for visiting my GitHub profile! ⭐
 
-⭐ Thanks for visiting my profile!
+---
+
+⭐ **Feel free to explore my repositories and projects.**
