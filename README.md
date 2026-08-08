@@ -80,18 +80,6 @@ I enjoy building practical projects, learning new technologies, solving programm
 
 ## 🚀 Projects
 
-### 🍳 Recipe Recommendation System
-
-A web-based recipe recommendation system designed to help users find suitable recipes based on their preferences.
-
-**Technologies:**
-- Node.js
-- HTML
-- CSS
-- JavaScript
-
----
-
 ### 💼 Job Portal System
 
 A web-based job portal that provides different functionalities for users, employers, and administrators.
