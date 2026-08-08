@@ -5,11 +5,17 @@ I’m a Bachelor of Computer Applications (BCA) student with a strong interest i
 I enjoy building practical projects, learning new technologies, and improving my programming and problem-solving skills through hands-on practice.
 
 🚀 What I Do
+
 🌐 Web Development
+
 🧪 Software Testing & Quality Assurance
+
 💻 Programming & Problem Solving
+
 🔧 Building Practical Projects
+
 📚 Continuous Learning
+
 🛠️ Technologies & Tools
 
 Languages
